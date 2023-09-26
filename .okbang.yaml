@@ -1,0 +1,18 @@
+selenium:
+  chrome: C:\Program Files\Google\Chrome\Application\chromedriver.exe
+  url: http://okbang.com.cn/wy-client/customer.html?source=rongshanghui&fromtype=5&feetype=0
+
+okbang:
+  cliName: Chengken
+  mobile: xxxxxxxxxxxxx
+  crontab: ''
+
+email:
+  to: [chengkenlee@sina.com,1427746783@qq.com]
+
+log:
+  line: true
+  level: 0
+  path: 'C:\Users\chengkenlee\log'
+  console: true
+
